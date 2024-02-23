@@ -39,7 +39,7 @@ You can use this file to analyze the data in the corresponding resource CSV.
     - crypto_market_data - provided csv dataset.
 - Assets
     - elbows.png - png of scatter plot comparison.
-    - scattes.png - png of scatter plot comparison.
+    - scatters.png - png of scatter plot comparison.
 - Crypto_Clustering - provided jupyter notebook file that contains the code.
 
 
