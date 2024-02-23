@@ -7,6 +7,14 @@ This repository contains a main file and a correlating file with CSV files for a
 
 In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
 
+## Analysis
+
+In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
+
+In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
+
+
+
 ## Usage
 
 You can use this file to analyze the data in the corresponding resource CSV.
