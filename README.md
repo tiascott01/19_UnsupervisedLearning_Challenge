@@ -9,13 +9,13 @@ In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of differe
 
 ## Analysis
 
-In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
+After carrying out principal component analysis (PCA) using three features, we found that about 88% of the variation in the dataset was explained. This means that a significant portion of the data's complexity was captured using just three dimensions. When we applied a K-means clustering model with four clusters to both the scaled (normalized) data and the data transformed by PCA, the results were highly effective. This indicates that the clustering model worked well with the reduced dimensionality, efficiently grouping the data into four distinct clusters.
 
 <p align="center">
 <img src="https://github.com/tiascott01/19_UnsupervisedLearning_Challenge/blob/main/Assets/elbows.png" width="750">
 </p>
 
-In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
+Reducing the number of features through principal component analysis (PCA) led to the formation of more cohesive clusters. This improvement likely occurred because the reduction process eliminated some of the noise or irrelevant information, thereby sharpening the focus on the patterns that matter most. Essentially, the PCA managed to distill the essence of the original normalized data into fewer principal components. This means that, despite using less information, the PCA provided a representation of the data that was both accurate and efficient, capturing the key patterns without the need for all original variables.
 
 <p align="center">
 <img src="https://github.com/tiascott01/19_UnsupervisedLearning_Challenge/blob/main/Assets/scatters.png" width="750">
