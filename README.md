@@ -12,13 +12,13 @@ In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of differe
 In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
 
 <p align="center">
-<img src="https://github.com/tiascott01/19_UnsupervisedLearning_Challenge/blob/main/Assets/elbows.png" width="650">
+<img src="https://github.com/tiascott01/19_UnsupervisedLearning_Challenge/blob/main/Assets/elbows.png" width="750">
 </p>
 
 In the 19_UnsupervisedLearning_Challenge, this dataset is an analysis of different crypto market prices, which are normalized with the StandardScaler module. Further analysis was plotted using K-means model and the elbow method to select the best clustering values. A second analysis using Principal Component Analysis (PCA) was also used and modeled again with the K-means model to contrast the data to see if the model fit better by using PCA features over scaled features.
 
 <p align="center">
-<img src="https://github.com/tiascott01/19_UnsupervisedLearning_Challenge/blob/main/Assets/scatters.png" width="650">
+<img src="https://github.com/tiascott01/19_UnsupervisedLearning_Challenge/blob/main/Assets/scatters.png" width="750">
 </p>
 
 
