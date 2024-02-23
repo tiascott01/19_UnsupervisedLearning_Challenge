@@ -33,6 +33,16 @@ You can use this file to analyze the data in the corresponding resource CSV.
 
 3. Run individual cells within to see the calculations.
 
+
+## Navigation
+- Resources
+    - crypto_market_data - provided csv dataset.
+- Assets
+    - elbows.png - png of scatter plot comparison.
+    - scattes.png - png of scatter plot comparison.
+- Crypto_Clustering - provided jupyter notebook file that contains the code.
+
+
 ## Resources and Citations
 
 1. General - ChatGpt.com
